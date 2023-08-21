@@ -30,21 +30,8 @@ The Language Translator Android App is a mobile application that allows users to
 - [Google Translate API](https://cloud.google.com/translate) for language translation.
 - [Material Design Components](https://material.io/components) for UI elements.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`.
-3. Make your changes and commit them: `git commit -am 'Add some feature'`.
-4. Push to the branch: `git push origin feature/your-feature-name`.
-5. Create a pull request describing your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or inquiries, please contact [your.email@example.com](mailto:your.email@example.com).
+For questions or inquiries, please contact [your.email@example.com](mailto:sd22_zinzurade_akshada@mgmcen.ac.in).
 
