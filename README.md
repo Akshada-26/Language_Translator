@@ -33,5 +33,5 @@ The Language Translator Android App is a mobile application that allows users to
 
 ## Contact
 
-For questions or inquiries, please contact (mailto:sd22_zinzurade_akshada@mgmcen.ac.in).
+For questions or inquiries, please contact (mailto:akshadazinzurade@gmail.com).
 
